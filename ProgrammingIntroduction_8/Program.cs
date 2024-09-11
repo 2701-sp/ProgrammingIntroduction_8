@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 
-//change made in class by Manish
+//change made in class by Sunil
 // example 0 - first program
 Console.WriteLine("Hello World!");
 // Console.ReadKey();
